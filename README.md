@@ -1,2 +1,2 @@
 # password_generator
-first python Tkinter project
+first project using python tkinter 
